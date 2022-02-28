@@ -1,0 +1,622 @@
+Region ,District ,Date,HEALTH FACILITY TYPE,HEALTH FACILITY OWNERSHIP,HEALTH FACILITY NAME ,STAR RATING
+Mara ,Tarime,05-Mar-15,Health Centre,Private,TGF,3
+Mara ,Musoma Municipal ,05-Mar-15,Health Centre,Public,BWERI H/CENTRE,3
+Mara ,Rorya,05-Mar-15,Hospital,Private,KOWAK HOSPITAL,3
+Mara ,Tarime,05-Mar-15,Health Centre,Private,MASANGA HEALTH CENTRE,3
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,TEGERUKA,3
+Mara ,Tarime,05-Mar-15,Health Centre,Public,NHANGOTO,3
+Mara ,Tarime,05-Mar-15,Health Centre,Private,WILL'S MEMORIAL,2
+Mara ,Tarime,05-Mar-15,Health Centre,Public,MAGOTO,2
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,Ikomo,2
+Mara ,Tarime,05-Mar-15,Hospital,Public,TARIME HOSPITAL,2
+Mara ,Musoma District ,05-Mar-15,Health Centre,Public,MURANGI HEALTH CENTRE.,2
+Mara ,Rorya,05-Mar-15,Hospital,Private,RAO HOSPITAL,2
+Mara ,Tarime,05-Mar-15,Dispensary,Public,KENYAMANYORI,2
+Mara ,Rorya,05-Mar-15,Hospital,Private,SHIRATI HOSPITAL,2
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,NYAMBONO,2
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,ETARO,2
+Mara ,Tarime,05-Mar-15,Dispensary,Public,GAMASARA,2
+Mara ,Butiama ,05-Mar-15,Hospital,Public,BUTIAMA HOSPITAL,2
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,NYAMIKA,2
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,BISUMWA,2
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,KWANGWA DISPENSARY,2
+Mara ,Serengeti,05-Mar-15,Health Centre,Public,Nata,2
+Mara ,Musoma Municipal ,05-Mar-15,Health Centre,Public,NYASHO H/C,2
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,NYAKATO DISPENSARY,2
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,WANYELE,2
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,NYAKATENDE,2
+Mara ,Serengeti,05-Mar-15,Dispensary,Private,HUDUMA DISP,2
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,BUKIMA,2
+Mara ,Bunda,05-Mar-15,Hospital,Private,BUNDA DDH,2
+Mara ,Serengeti,05-Mar-15,Health Centre,Public,MACHOCHWE H/C,2
+Mara ,Tarime,05-Mar-15,Dispensary,Public,NYAMWAGA,2
+Mara ,Tarime,05-Mar-15,Health Centre,Public,MRIBA,2
+Mara ,Tarime,05-Mar-15,Dispensary,Private,NAME OF DISPBIKIRA MARIA,2
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,NYEGINA,2
+Mara ,Rorya,05-Mar-15,Health Centre,Public,CHANGUGE HEALTH ,2
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,Makoko,2
+Mara ,Serengeti,05-Mar-15,Dispensary,Private,GRUMETI,2
+Mara ,Bunda,05-Mar-15,Hospital,Private,"ST. MARY's HOSPITAL, KIBARA",2
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,KIABAKARI GIORGIO FRANSAT,2
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,RYAMISANGA,2
+Mara ,Rorya,05-Mar-15,Dispensary,Private,NGASARO DISP,2
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,WEGERO,2
+Mara ,Tarime,05-Mar-15,Health Centre,Private,SACHITA,2
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Private,MARIE STOPES DISPENSARY,2
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,RUSOLI,2
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,NYINCHOKA,2
+Mara ,Serengeti,05-Mar-15,Dispensary,Private, KADA MUGUMU,2
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,KIEMBA,2
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,MWISENGE DISP,2
+Mara ,Tarime,05-Mar-15,Dispensary,Public,SURUBU,2
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,MWANZABURIGA,2
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,Buhare Dispensary,2
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,NYAKITONO,2
+Mara ,Tarime,05-Mar-15,Dispensary,Public,NYASARICHO,2
+Mara ,Tarime,05-Mar-15,Dispensary,Public,KIONGERA,1
+Mara ,Serengeti,05-Mar-15,Hospital,Private,Nyereree (MUGUMU)DDH,1
+Mara ,Tarime,05-Mar-15,Dispensary,Public,MTANA,1
+Mara ,Tarime,05-Mar-15,Dispensary,Public,NYAMONGO,1
+Mara ,Tarime,05-Mar-15,Dispensary,Private,SDA,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,KYAWAZARWE,1
+Mara ,Tarime,05-Mar-15,Dispensary,Private,ROSANA,1
+Mara ,Butiama ,05-Mar-15,Health Centre,Public,KIAGATA,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,CHITARE,1
+Mara ,Rorya,05-Mar-15,Health Centre,Private,BARAKI H/C,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,BUHEMBA,1
+Mara ,Tarime,05-Mar-15,Dispensary,Public,NYANTIRA,1
+Mara ,Tarime,05-Mar-15,Dispensary,Public,GIBASO,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,mbalibali,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,RUNG'ABURE DISP.,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,RWAMKOMA JKT,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,RYAMGABO,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,NYAMISINGISI,1
+Mara ,Tarime,05-Mar-15,Health Centre,Private,NYARERO,1
+Mara ,Tarime,05-Mar-15,Dispensary,Public,GENKURU,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,NYAMBURI,1
+Mara ,Tarime,05-Mar-15,Health Centre,Public,SIRARI,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,NYAMATOKE,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,SAKAWA DISP,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Private,MOSONGO,1
+Mara ,Serengeti,05-Mar-15,Health Centre,Public,MUGUMU RCH B,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,KWIKUBA,1
+Mara ,Bunda,05-Mar-15,Hospital,Public,MANYAMANYAMA,1
+Mara ,Tarime,05-Mar-15,Dispensary,Private,KIBUMAYE,1
+Mara ,Musoma Municipal ,05-Mar-15,Health Centre,Private,OMEGA HEALTH CENTRE,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,BUSUNGU,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,MASINKI,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,BUTUGURI,1
+Mara ,Tarime,05-Mar-15,Health Centre,Public,NYARWANA,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,BWAI,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,KIABAKARI JWTZ,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,MUGANGO,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,MASURURA,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,ISENYE DISPENSARY,1
+Mara ,Bunda,05-Mar-15,Health Centre,0,IKIZU HC,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,NYASIRORI,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,KURUYA DISP,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,SALAMA A DISPENSARY,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,GANTAMOME,1
+Mara ,Tarime,05-Mar-15,Dispensary,Private,TARIME GOODWILL DISP,1
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,IRINGO DISPENSARY,1
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Private,AICT NYASHO DISP,1
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Private,AICT BWERI,1
+Mara ,Serengeti,05-Mar-15,Health Centre,Public,Robanta,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,BWITENGI DISP.,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,NYAMISISI,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,KIZARU,1
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,RWAMLIMI DISPENSARY,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,RIGICHA DISPENSARY,1
+Mara ,Rorya,05-Mar-15,Health Centre,Private,NYAROMBO H/C,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,MAGANA,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,"RWANG""ENYI",1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,NYAMAGARO DISPENSARY,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,NANSIMO DISPENSARY,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,NYANCHABAKENE,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,LAKE VICTORIA DISPENSARY,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,BUGIRE,1
+Mara ,Rorya,05-Mar-15,Health Centre,Public,UTEGI HC,1
+Mara ,Bunda,05-Mar-15,Health Centre,0,KASAHUNGA H/C,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,NYANSURURA,1
+Mara ,Musoma Municipal ,05-Mar-15,Health Centre,Private,Bethsaida H/C,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,BUBOMBI DISP,1
+Mara ,Tarime,05-Mar-15,Dispensary,Private,NAME OF DISP MAKONZO,1
+Mara ,Tarime,05-Mar-15,Dispensary,Public,ronsoti,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,KURUGEYE,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,ITUNUNU DISP,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,MASINONO ,1
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Private,Kamunyonge SDA,1
+Mara ,Serengeti,05-Mar-15,Health Centre,Public,Iramba ,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,IRAMBA DISPENSARY,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,SUGUTI,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,BUTURI DISP,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,RCH- A,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,NYANKANGA,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,BUGUNDA,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,MWIBAGI,1
+Mara ,Bunda,05-Mar-15,Health Centre,0,BUNDA H/C,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,NYABANGE,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,Rwamchanga Disp,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,KIRIBA,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,GUTA DISPENSARY,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,KAMUGEGI,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,KABARE PRIMAT,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Private,BWASI,1
+Mara ,Rorya,05-Mar-15,Dispensary,Private,ST.Valentine disp,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,NYABANGE,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,park nyigoti,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,KOME,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,SOKOLABOLO DISP,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,WEGETE,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,MURIAZA,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,NYAMITITA,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,TABORA DISPENSARY,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,MURIAZA DISP,1
+Mara ,Tarime,05-Mar-15,Dispensary,Public,BUMERA,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,ISERESERE,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,CHERECHE DISPENSARY,1
+Mara ,Rorya,05-Mar-15,Health Centre,Public,KINESI HC,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,BONCHUGU,1
+Mara ,Musoma Municipal ,05-Mar-15,Health Centre,Private,Coptic Medical Center,1
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,KIGERA ETUMA,1
+Mara ,Rorya,05-Mar-15,Dispensary,Private,NYASORO DISP,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,NYAHONGO,1
+Mara ,Tarime,05-Mar-15,Dispensary,Private,ALPHA PRINIMAT,1
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Private,MANGA DISP,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,KARUKEKERE DISPENSARY,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,KENYANA DISPENSARY,1
+Mara ,Tarime,05-Mar-15,Dispensary,Public,NYABISAGA ,1
+Mara ,Rorya,05-Mar-15,Health Centre,Private,MASONGA H/C,1
+Mara ,Tarime,05-Mar-15,Dispensary,Private,KEISANGORA,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,MASIKE DISPENSARY,1
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Private,KADA,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,GISARYA,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Private,GISARYA,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,RARANYA DISPENSARY,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,AICT BUNDA DISPENSARY,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,SAZIRA DISPENSARY,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,NAMHULA,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,TAMAU DISPENSARY,1
+Mara ,Rorya,05-Mar-15,Dispensary,Public,RUHU DISP,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,REMUNG'OROLI,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,NYIBOKO DISPENSARY,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,MARAMBEKA DISPENSARY,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,SIR0RISIMBA,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,SALAMA KATI DISPENSARY,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,BUKAMA SDA,1
+Mara ,Butiama ,05-Mar-15,Dispensary,Public,BURUMA,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,SARAWE DISPENSARY,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,BOMA DISPENSARY,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,KUNZUGU DISPENSARY,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Private,ISSECO,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,MCHARO,1
+Mara ,Tarime,05-Mar-15,Dispensary,Public,KUBITERERE,1
+Mara ,Bunda,05-Mar-15,Dispensary,Public,MARIWANDA,1
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,KITEMBELE DISPENSARY,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,UKOMBOZI DISPENSARY,0
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,MUSATI,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,BHOKE DISPENSARY,0
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,ST Claret,0
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,LUKUBA,0
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,KAMGENDI,0
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,RWAMKOMA,0
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,MAJIMOTO,0
+Mara ,Tarime,05-Mar-15,Dispensary,Public,BUNGURERE,0
+Mara ,Serengeti,05-Mar-15,Health Centre,Public,Kebanchabancha,0
+Mara ,Tarime,05-Mar-15,Dispensary,Public,MATONGO,0
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,BUGOJI,0
+Mara ,Rorya,05-Mar-15,Dispensary,Public,PANYAKOO DISPENSARY,0
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,NYAMATARE DISP,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,KANGETUTYA,0
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,GUSUHI,0
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,MIRWA,0
+Mara ,Tarime,05-Mar-15,Dispensary,Public,magereza,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,NYANGERE DISP,0
+Mara ,Musoma District ,05-Mar-15,Dispensary,Private,RWANGA KMT ,0
+Mara ,Bunda,05-Mar-15,Health Centre,0,KASUGUTI,0
+Mara ,Rorya,05-Mar-15,Dispensary,Public,NYASOKO,0
+Mara ,Serengeti,05-Mar-15,Dispensary,Private,BURITO,0
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,BARANGA,0
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,Merenga,0
+Mara ,Bunda,05-Mar-15,Health Centre,0,KISORYA,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,FARAJA PRIMART,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,IGUNDU DISPENSARY,0
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,MABURI,0
+Mara ,Bunda,05-Mar-15,Health Centre,0,MUGETA,0
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,MAGEREZA DISP,0
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,SERONERA ,0
+Mara ,Rorya,05-Mar-15,Dispensary,Private,BURERE DISPENSARY,0
+Mara ,Musoma District ,05-Mar-15,Dispensary,Public,SEKA,0
+Mara ,Tarime,05-Mar-15,Dispensary,Public,MAGENA,0
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,Makoko JW,0
+Mara ,Bunda,05-Mar-15,Health Centre,0,NYATWALI H/C,0
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Private,Jema RCH Dispensary,0
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Public,MUSOMA POLICE,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,MIHALE DISPENSARY,0
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private, BUSEGWE,0
+Mara ,Tarime,05-Mar-15,Dispensary,Public,KITAGUTITI ,0
+Mara ,Rorya,05-Mar-15,Dispensary,Private,KOTHORA DISPENSARY,0
+Mara ,Tarime,05-Mar-15,Dispensary,Private,URAFIKI,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,KURUSANGA DISPENSARY,0
+Mara ,Rorya,05-Mar-15,Dispensary,Public,OCHUNA DISPENSARY,0
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,BUSEGWE SDA,0
+Mara ,Rorya,05-Mar-15,Dispensary,Public,IKOMA DISPENSARY,0
+Mara ,Rorya,05-Mar-15,Dispensary,Public,RADIENYA DISP,0
+Mara ,Rorya,05-Mar-15,Dispensary,Private,NYAMASANDA,0
+Mara ,Tarime,05-Mar-15,Dispensary,Private,CADA,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,HUNYARI,0
+Mara ,Tarime,05-Mar-15,Dispensary,Private,IHSA - KITENGA,0
+Mara ,Serengeti,05-Mar-15,Health Centre,Public,Kemugesi,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,KABASA DISPENSARY,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,MANCHIMWERU DISPENSARY,0
+Mara ,Rorya,05-Mar-15,Dispensary,Public,BARAKI DISPENSARY,0
+Mara ,Rorya,05-Mar-15,Dispensary,Public,KOGAJA DISP,0
+Mara ,Serengeti,05-Mar-15,Dispensary,Public,NYANKOMOGO,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,BUSAMBARA,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,BULAMBA DISPENSARY,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,MWIRURUMA DISP,0
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,kitalamanka,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,NYABURUNDU,0
+Mara ,Tarime,05-Mar-15,Dispensary,Public,NKEREGE,0
+Mara ,Butiama ,05-Mar-15,Dispensary,Public or Private,KIABAKARI MAGEREZA,0
+Mara ,Rorya,05-Mar-15,Dispensary,Private,S0TA DISPENSARY,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,MEKOMARIRO DISPENSARY,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,SUNSI DISPENSARY,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,BUNDA MAGEREZA DISPENSARY,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,NAFUBA DISPENSARY,0
+Mara ,Rorya,05-Mar-15,Dispensary,Private,SAYUNI DISPENSARY,0
+Mara ,Rorya,05-Mar-15,Dispensary,Public,NYAMBORI DISPENSARY,0
+Mara ,Musoma Municipal ,05-Mar-15,Dispensary,Private,NYAKATO RED CROSS DISPENSARY,0
+Mara ,Bunda,05-Mar-15,Dispensary,Public,NYAMATOKE  DISPENSARY,0
+Mara ,Tarime,05-Mar-15,Health Centre,Private,NTAGACHA,0
+Mara ,Rorya,05-Mar-15,Dispensary,Public,KIBUYI DISPENSARY,0
+Dar es Salaam,Ilala,,Hospital,FBO,CARDINAL RUGAMBWA,1
+Dar es Salaam,Ilala,,Hospital,PRIVATE,REGENCY MEDICAL CENTRE,2
+Dar es Salaam,Ilala,,Hospital,PRIVATE,ST BERNARD,1
+Dar es Salaam,Ilala,,Hospital,PRIVATE,TUMAINI,1
+Dar es Salaam,Ilala,,Hospital,PRIVATE,TABATA GENERAL& CANCER CLINIC,0
+Dar es Salaam,Ilala,,Hospital,LGA,MNAZI MMOJA,1
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,APOLLO MEDICAL CENTER,1
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,DR.HAMEER,1
+Dar es Salaam,Ilala,,Health Centre,FBO,BUGURUNI AGLICAN,2
+Dar es Salaam,Ilala,,Health Centre,FBO,BURHANI CHARITABLE,1
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,HURUMA,0
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,IRANIA,1
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,KINGS,1
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,TANZANIA METHODIST,0
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,SAVE LIFE GIVE HOPE,1
+Dar es Salaam,Ilala,,Health Centre,PRIVITE,MADONA,2
+Dar es Salaam,Ilala,,Health Centre,FBO,PRINCE SAUDI,2
+Dar es Salaam,Ilala,,Health Centre,FBO,SUNSHINE MUSLIM VOLUNTEER SMV,2
+Dar es Salaam,Ilala,,Health Centre,FBO,TIKAYA,3
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,EBRAHIM HAJI,2
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,MSELEMU,1
+Dar es Salaam,Ilala,,Health Centre,LGA,BUGURUNI,3
+Dar es Salaam,Ilala,,Health Centre,LGA,PUGU,2
+Dar es Salaam,Ilala,,Health Centre,PRISON,MAGEREZA CHUO,0
+Dar es Salaam,Ilala,,Health Centre,FBO,ST. BENEDICTINE,1
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,AAR CITY CENTRE,1
+Dar es Salaam,Ilala,,Health Centre,PRIVATE,AAR TABATA,1
+Dar es Salaam,Ilala,,Dispensary ,FBO,ANANDA MARGA MISSION,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE-NGO,AFYA CARETAUSI,1
+Dar es Salaam,Ilala,,Dispensary ,FBO,AL HILAL,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,AL JUMAA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,AL KARIMU,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ANE AFYA CARE,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA AMANI,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA CHANIKA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA CHARITABLE KIPUNGUNI,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA GONGOLAMBOTO,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA MAJOHE,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA MAJUMBA SITA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA MOOD,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA MZINGA,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA NEEMA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA PUGU,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA SES,2
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ARAFA TEMBO MGWAZA,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,AVIATION,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,BLESSING,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,BMK,1
+Dar es Salaam,Ilala,,Dispensary ,PARASTATAL,BANK OF TANZANIA CLINIC,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE-FBO,CHADIBWA,1
+Dar es Salaam,Ilala,,Dispensary ,PARASTATAL,D.I.T,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,DATOO MED,2
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,DR. HASSANAL,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,EBENEEZER,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,EMARA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,FAMILY,2
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,FRONTLINE,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,GALILEE,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,GONGO LA MBOTO BAHARI,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,HEALTH HOME CHARITABLE,1
+Dar es Salaam,Ilala,,Dispensary ,FBO,ISLAMIC CULTURE SCHOOL (ICS) TABATA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,K.V MISSION,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,JAHA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,JEMSA,2
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,KAM,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,KARIAKOO,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,KILIMANI KARAKATA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,KIMWANI ILALA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,KIPUNGUNI RELINI,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MART BUGURUNI,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,SOKONI,2
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,KOMBA MEDICAL,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,KUNDY,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,LUKUWI,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE-FBO,MAKOKA RC,2
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MANGESANI,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MASIKU,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MEMBERS NURAIFO,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MICO GONGO LA MBOTO,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MICO KILIMANJARO MILLENIUM,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MICO KIPUNGUNI B,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MICO KIPUNGUNI,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MICO NIGHTNGALE,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MICO MZAMBARAUNI,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MICO TABATA KIMANGA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MIVINJENI,0
+Dar es Salaam,Ilala,,Dispensary ,FBO,MSIMBAZI MISSION,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MUZDALFA KIWALANI,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,MZAMBARAUNI B,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,POVERTY AFRICA KITUNDA CHARITABLE,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,REHEMTULLA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,RTMR,2
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,RUNGWE,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ST. CAMILIUS,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,TOTAL CARE,1
+Dar es Salaam,Ilala,,Dispensary ,PUBLIC-PARASTATAL,T.T.C.L,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,TACKFORD,0
+Dar es Salaam,Ilala,,Dispensary ,FBO,TAIFO CHARITABLE,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,TANZANIA BREWERIES,2
+Dar es Salaam,Ilala,,Dispensary ,PUBLIC-PARASTATAL,TANZANIA RAILWAYS,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE-FBO,THE WORLD MISSIONARY FELLOWSHIP OF THE CHURCH OF GOD (KLM),2
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,TIBA,3
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,TYMA KIGILAGILA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,WEST DSM,1
+Dar es Salaam,Ilala,,Dispensary ,LGA,YOMBO UFUNDI,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,ZAINABYA,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,WAYA,0
+Dar es Salaam,Ilala,,Dispensary ,FBO,MOTHER CARE,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE -FBO,B.A.P SWAMINARAYAN,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,TARAJA MDPTL,1
+Dar es Salaam,Ilala,,Dispensary ,LGA,BONYOKWA,3
+Dar es Salaam,Ilala,,Dispensary ,LGA,BUYUNI,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,CHANIKA,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,GEREZANI,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,GONGO LA MBOTO,3
+Dar es Salaam,Ilala,,Dispensary ,LGA,GULUKA KWA LALA,1
+Dar es Salaam,Ilala,,Dispensary ,LGA,KINYEREZI,3
+Dar es Salaam,Ilala,,Dispensary ,LGA,KIPAWA,1
+Dar es Salaam,Ilala,,Dispensary ,LGA,KITUNDA ILALA,3
+Dar es Salaam,Ilala,,Dispensary ,LGA,KIVULE,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,KIWALANI,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,MAJOHE,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,MIVULENI,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,MONGO LA NDEGE,3
+Dar es Salaam,Ilala,,Dispensary ,LGA,MSONGOLA,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,MVUTI,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,SEGEREA,3
+Dar es Salaam,Ilala,,Dispensary ,LGA,TABATA A,3
+Dar es Salaam,Ilala,,Dispensary ,LGA,TABATA KISIWANI,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,TABATA NBC,3
+Dar es Salaam,Ilala,,Dispensary ,LGA,VINGUNGUTI,2
+Dar es Salaam,Ilala,,Dispensary ,LGA,YONGWE,1
+Dar es Salaam,Ilala,,Dispensary ,LGA,ZINGIZIWA,2
+Dar es Salaam,Ilala,,Dispensary ,POLICE,FFU UKONGA,1
+Dar es Salaam,Ilala,,Dispensary ,MILITARY,KMKGM,1
+Dar es Salaam,Ilala,,Dispensary ,PRISON,MAGEREZA UKONGA,1
+Dar es Salaam,Ilala,,Dispensary ,PRISON,SEGEREA MAGEREZA,0
+Dar es Salaam,Ilala,,Dispensary ,POLICE,AIRPOT POLICE,0
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,TRAFFIC POLICE,1
+Dar es Salaam,Ilala,,Dispensary ,MILITARY,AIRWING 603 ATS,1
+Dar es Salaam,Ilala,,Dispensary ,MILITARY,511KJ GONGO LA MBOTO,1
+Dar es Salaam,Ilala,,Dispensary ,MILITARY,NGOME JESHI,1
+Dar es Salaam,Ilala,,Dispensary ,PRIVATE,TIBA 2,0
+Simiyu,,,Dispensary ,Public,MWAFUGUJI,1
+Simiyu,,,Hospital,Public,MEATU ,1
+Simiyu,,,Dispensary ,Private,BAKWATA MAGANZO,1
+Simiyu,,,Health Centre,Public,MWANDOYA,0
+Simiyu,,,Dispensary ,Public,MWANGUDO,1
+Simiyu,,,Dispensary ,Public,ITINJE,1
+Simiyu,,,Dispensary ,Public,IMALESEKO,1
+Simiyu,,,Dispensary ,Public,SAKASAKA,1
+Simiyu,,,Dispensary ,Public,MBUGAYABANHYA,0
+Simiyu,,,Dispensary ,Public,MWAMANONGU,0
+Simiyu,,,Dispensary ,Public,MWABUZO,1
+Simiyu,,,Dispensary ,Public,KABONDO,1
+Simiyu,,,Dispensary ,Public,MWANDU ITINJE,0
+Simiyu,,,Dispensary ,Private,RC MWANHUZI,1
+Simiyu,,,Dispensary ,Public,MWAMATIGA,0
+Simiyu,,,Dispensary ,Public,MWABAGIMU,0
+Simiyu,,,Dispensary ,Public,LINGEKA,0
+Simiyu,,,Health Centre,Public,BUKUNDI ,0
+Simiyu,,,Dispensary ,Public,MWABALEBI,0
+Simiyu,,,Dispensary ,Public,PAJI,0
+Simiyu,,,Dispensary ,Private,MSHIKAMANO BAKWATA,1
+Simiyu,,,Dispensary ,Public,MWAMBITI,0
+Simiyu,,,Dispensary ,Public,KISESA,0
+Simiyu,,,Dispensary ,Public,MWABUMA,0
+Simiyu,,,Dispensary ,Public,MWAMANIMBA,0
+Simiyu,,,Dispensary ,Public,MWASHATA,0
+Simiyu,,,Dispensary ,Public,MWAMISHALI,0
+Simiyu,,,Dispensary ,Public,ISENGWA,0
+Simiyu,,,Dispensary ,Public,NYANZA,0
+Simiyu,,,Dispensary ,Public,MWABULUTAGO ,0
+Simiyu,,,Dispensary ,Public,MWANJOLO,0
+Simiyu,,,Dispensary ,Public,MWABAGALU,0
+Simiyu,,,Dispensary ,Public,BULYASHI,0
+Simiyu,,,Dispensary ,Public,MWABUSALU,0
+Simiyu,,,Dispensary ,Public,MAKAO,0
+Simiyu,,,Dispensary ,Public,MWAGENI,0
+Simiyu,,,Dispensary ,Public,CHAMBALA,0
+Simiyu,,,Dispensary ,Public,NG'HOBOKO,0
+Simiyu,,,Dispensary ,Public,MWAMANONI,0
+Simiyu,,,Dispensary ,Public,LUBIGA,0
+Simiyu,,,Dispensary ,Public,LONGALONHIGA,0
+Simiyu,,,Dispensary ,Public,SEMU,0
+Simiyu,,,Dispensary ,Public,MWAMALOLE,0
+Simiyu,,,Dispensary ,Public,NKOMA.,0
+Simiyu,,,Dispensary ,Public,MWAKIPOPO,0
+Simiyu,,,Dispensary ,Private,NEW STAND BAKWATA DISP,0
+Simiyu,,,Dispensary ,Public,JINAMO,0
+Simiyu,,,Dispensary ,Public,MBALAGANE,0
+Simiyu,,,Dispensary ,Public,MINYANDA,0
+Simiyu,,,Dispensary ,Public,MWANGIKULU,0
+Simiyu,,,Dispensary ,Public,MBUSHI,0
+Simiyu,,,Dispensary ,Public,MWAKALUBA,0
+Simiyu,,,Dispensary ,Public,SUNGU,0
+Simiyu,,,Health Centre,Public,IKINDILO HC,0
+Simiyu,,,Health Centre,Public,ZAGAYU HC,0
+Simiyu,,,Health Centre,Public,NKOMA HC,1
+Simiyu,,,Dispensary ,0,SAGATI DISP,0
+Simiyu,,,Dispensary ,0,MWASWALE DISP,0
+Simiyu,,,Dispensary ,0,NANGALE DISP,0
+Simiyu,,,Dispensary ,0,MIGATO DISP,0
+Simiyu,,,Dispensary ,0,MWABUKI DISP,0
+Simiyu,,,Dispensary ,0,HABIYA,0
+Simiyu,,,Dispensary ,0,BUMERA DISP,0
+Simiyu,,,Dispensary ,0,GASWA DISP,0
+Simiyu,,,Dispensary ,0,MHUNZE DISP,0
+Simiyu,,,Dispensary ,0,LAGANGABILILI DISP,0
+Simiyu,,,Dispensary ,0,NANGA DISP,0
+Simiyu,,,Dispensary ,0,MAHEMBE DISP,1
+Simiyu,,,Dispensary ,0,KINAMWELI DISP,0
+Simiyu,,,Dispensary ,0,SUNZULA DISP,0
+Simiyu,,,Dispensary ,0,SAWIDA DISP,0
+Simiyu,,,Dispensary ,0,MWANUNUI DISP,0
+Simiyu,,,Dispensary ,0,MWAMAPALALA DISP,1
+Simiyu,,,Dispensary ,0,BUNAMALA  MBUGANI DISP,0
+Simiyu,,,Dispensary ,0,NYAMALAPA DISP,0
+Simiyu,,,Dispensary ,0,LUGULU DISP,1
+Simiyu,,,Dispensary ,0,ZANZUI DISP,1
+Simiyu,,,Dispensary ,0,WAZAZI DISP,0
+Simiyu,,,Dispensary ,0,U.W.T DISPENSARY,0
+Simiyu,,,Dispensary ,0,KASHISHI DISP,0
+Simiyu,,,Dispensary ,0,NGEME DISP,0
+Simiyu,,,Dispensary ,0,CHINAMILI DISP,0
+Simiyu,,,Dispensary ,0,NKUYU DISPENSARY,0
+Simiyu,,,Dispensary ,0,MITOBO DISPENSARY,0
+Simiyu,,,Dispensary ,0,LONGALOMBOGO DISPENSARY,0
+Simiyu,,,Dispensary ,0,ISANGA DISPENSARY,1
+Simiyu,,,Dispensary ,0,BUNAMHALA CHUONI DISPENSARY,0
+Simiyu,,,Dispensary ,0,BUPANDAGILA SDA DISP,0
+Simiyu,,,Dispensary ,0,DR. MADUHU DISPENSARY,0
+Simiyu,,,Dispensary ,0,DR. MWIJAGE CLINIC,0
+Simiyu,,,Dispensary ,0,GUDUWE DISPENSARY,0
+Simiyu,,,Dispensary ,0,KILULU DISPENSARY,0
+Simiyu,,,Dispensary ,0,MAJAHIDA AICT DISPENSARY,1
+Simiyu,,,Dispensary ,0,MATALE DISPENSARY,0
+Simiyu,,,Dispensary ,0,MUHOJA KMT DISPENSARY,1
+Simiyu,,,Dispensary ,0,MWAKIBUGA DISPENSARY,1
+Simiyu,,,Dispensary ,0,MWANALEGUMA DISPENSARY,0
+Simiyu,,,Dispensary ,0,NYANGOKOLWA DISPENSARY,1
+Simiyu,,,Dispensary ,0,NYAUMATA DISPENSARY,1
+Simiyu,,,Dispensary ,0,OLD MASWA DISPENSARY,1
+Simiyu,,,Dispensary ,0,BARIADI MAGEREZA,0
+Simiyu,,,Dispensary ,0,DITIMA DISPENSARY,0
+Simiyu,,,Health Centre,0,NGULYATI HEALTH CENTRE,1
+Simiyu,,,Health Centre,0,MUUNGANO HEALTH CENTRE,0
+Simiyu,,,Hospital,0,BARIADI TOWN COUNCIL  ,1
+Simiyu,,,Hospital,0,MASWA,1
+Simiyu,,,Health Centre,0,SONGAMBELE RC,1
+Simiyu,,,Health Centre,0,Byuna ,0
+Simiyu,,,Dispensary ,0,GAMBOSI,0
+Simiyu,,,Dispensary ,0,NKOLOLO DISP,1
+Simiyu,,,Dispensary ,0,IHUSI DISPENSARY ,0
+Simiyu,,,Dispensary ,0,NYAWA DISPENSARY,0
+Simiyu,,,Dispensary ,0,HALAWA,0
+Simiyu,,,Dispensary ,0,NG'ARITA,0
+Simiyu,,,Dispensary ,0,MASEWA,1
+Simiyu,,,Dispensary ,0,IGEGU,1
+Simiyu,,,Dispensary ,0,IKUNGULYAMBESI DISPENSARY ,0
+Simiyu,,,Dispensary ,0, MATONGO DISP,1
+Simiyu,,,Dispensary ,0,GIBESHI DISPENSARY ,0
+Simiyu,,,Dispensary ,0,KASOLI,1
+Simiyu,,,Dispensary ,0,LULAYU,0
+Simiyu,,,Dispensary ,0,DUTWA DISPENSARY,1
+Simiyu,,,Dispensary ,0,NYAMIKOMA DISP,0
+Simiyu,,,Dispensary ,0,BANEMHI,1
+Simiyu,,,Dispensary ,0,MWASINASI DISP,1
+Simiyu,,,Dispensary ,0,NYAMSWA DISPENSARY,0
+Simiyu,,,Dispensary ,0,GASUMA ,0
+Simiyu,,,Dispensary ,0,SAPIWI ,0
+Simiyu,,,Dispensary ,0,DUTWA WAZAZI ,0
+Simiyu,,,Dispensary ,0,MWASUBUYA DISPENSARY,1
+Simiyu,,,Dispensary ,0,SAKWE DISPENSARY,1
+Simiyu,,,Dispensary ,0,MISWAKI,0
+Simiyu,,,Dispensary ,0,MWAMLAPA DISPENSARY,1
+Simiyu,,,Dispensary ,0,IKUNGULYABASHASHI,0
+Simiyu,,,Dispensary ,0,IGAGANULWA AICT DISPENSARY,0
+Simiyu,,,Dispensary ,0,NYALUHANDE,0
+Simiyu,,,Dispensary ,0,SHIGALA,0
+Simiyu,,,Dispensary ,0,NGASAMO,0
+Simiyu,,,Dispensary ,0,MWANANGI,1
+Simiyu,,,Dispensary ,0,MWANHALE,1
+Simiyu,,,Dispensary ,0,KIJERESHI,0
+Simiyu,,,Dispensary ,0,MWASAMBA,1
+Simiyu,,,Dispensary ,0,GININIGA,0
+Simiyu,,,Dispensary ,0,MALILI,1
+Simiyu,,,Dispensary ,0,MWAMIGONGWA,0
+Simiyu,,,Dispensary ,0,LUTUBIGA,0
+Simiyu,,,Dispensary ,0,LAMADI ,0
+Simiyu,,,Dispensary ,0,MUNGU KWANZA,1
+Simiyu,,,Dispensary ,0,MENONITE ,0
+Simiyu,,,Dispensary ,0,LUKUNGU,0
+Simiyu,,,Dispensary ,0,KILOLELI,0
+Simiyu,,,Dispensary ,0,IJIHA,0
+Simiyu,,,Dispensary ,0,MWAMJULILA,0
+Simiyu,,,Dispensary ,0,MWAMAGIGISI,0
+Simiyu,,,Dispensary ,0,BUSHIGWAMALA,0
+Simiyu,,,Dispensary ,0,NYAMIKOMA,0
+Simiyu,,,Dispensary ,0,KALEMERA,1
+Simiyu,,,Dispensary ,0,BADUGU,0
+Simiyu,,,Dispensary ,0,BULIMA,1
+Simiyu,,,Health Centre,0,IGALUKILO,0
+Simiyu,,,Health Centre,0,NASSA,1
+Simiyu,,,Hospital,0,MKULA,0
+Simiyu,,,Health Centre,0,LALAGO,1
+Simiyu,,,Health Centre,0,MALAMPAKA,1
+Simiyu,,,Health Centre,0,MWASAYI,0
+Simiyu,,,Dispensary ,0,BADI,1
+Simiyu,,,Dispensary ,0,MWAGALA DISPENSARY,0
+Simiyu,,,Dispensary ,0,DODOMA,0
+Simiyu,,,Dispensary ,0,KINAMWIGULU,0
+Simiyu,,,Dispensary ,0,MALITA,1
+Simiyu,,,Dispensary ,0,SAYUSAYU  DISP,0
+Simiyu,,,Dispensary ,0,BUDEKWA DISP,1
+Simiyu,,,Dispensary ,0,BUGALAMA DISPENSARY,1
+Simiyu,,,Dispensary ,0,MASANWA DISPENSARY,1
+Simiyu,,,Dispensary ,0,IKULILO DISPENSARY,0
+Simiyu,,,Dispensary ,0,SANGAMWALUGESHA,1
+Simiyu,,,Dispensary ,0,SHINYANGA MWENGE DISPENSARY,0
+Simiyu,,,Dispensary ,0,BUSHASHI DIPENSARY,1
+Simiyu,,,Dispensary ,0,IPILILO DISPENSARY,1
+Simiyu,,,Dispensary ,0,MWAMITUMAI DISP,0
+Simiyu,,,Dispensary ,0,ISANGA DISP,0
+Simiyu,,,Dispensary ,0,DULUNG'WA DISPENSARY,0
+Simiyu,,,Dispensary ,0,KADOTO,0
+Simiyu,,,Dispensary ,0,ILAMATA,0
+Simiyu,,,Dispensary ,0,MWABAYANDA DISP,0
+Simiyu,,,Dispensary ,0,GULA DISPENSARY,0
+Simiyu,,,Dispensary ,0,SULU,0
+Simiyu,,,Dispensary ,0,MWABOMBA,0
+Simiyu,,,Dispensary ,0,SENG'WA DISPENSARY,0
+Simiyu,,,Dispensary ,0,SENANI DISPENSARY,0
+Simiyu,,,Dispensary ,0,MWABULIMBU,1
+Simiyu,,,Dispensary ,0,MWAMANENGE DISPENSARY,0
+Simiyu,,,Dispensary ,0,NGULIGULI,0
+Simiyu,,,Dispensary ,0,ISAGENG'HE  DISP,0
+Simiyu,,,Dispensary ,0,MASELA,0
+Simiyu,,,Dispensary ,0,MASWA SEC ,1
+Simiyu,,,Dispensary ,0,MALYA DISPENSARY,0
+Simiyu,,,Dispensary ,0,MWABAGALU DISPENSARY,1
+Simiyu,,,Dispensary ,0,MWANG'HONOLI,0
+Simiyu,,,Dispensary ,0,MWASHEGESHI  DISPENSARY,1
+Simiyu,,,Dispensary ,0,WAZAZI BINZA DISPENSARY,1
+Simiyu,,,Dispensary ,0,MPINDO DISPENSARY,1
+Simiyu,,,Dispensary ,0,IGUNYA DISPENSARY,1
+Simiyu,,,Dispensary ,0,JIJA,1
+Simiyu,,,Dispensary ,0,SHISHIYU DISPENSARY,0
+Simiyu,,,Dispensary ,0,NYASHIMBA DISPENSARY,1
+Simiyu,,,Dispensary ,0,ZEBEYA DISP,0

@@ -1,0 +1,36 @@
+{
+	"fields": [
+		{
+			"name": "Year",
+			"type": "integer",
+			"constraints": {
+				"required": true
+			}
+		},
+		{
+			"name": "Health facility type",
+			"type": "string",
+			"constraints": {
+				"required": true,
+				"enum": ["Dispensary", "Health Centre", "Hospital"]
+			}
+		},
+		{
+			"name": "Health facility name",
+			"type": "string",
+			"constraints": {
+				"required": true
+			}
+		},
+
+		{
+			"name": "Star rating",
+			"type": "integer",
+			"constraints": {
+				"required": true,
+				"minimum": 0,
+				"maximum": 5
+			}
+		}
+	]
+}
