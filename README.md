@@ -1,2 +1,0 @@
-# autograder
-Created with CodeSandbox
