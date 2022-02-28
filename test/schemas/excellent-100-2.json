@@ -1,0 +1,60 @@
+{
+	"fields": [
+		{
+			"name": "Region ",
+			"title": "Region ",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "District ",
+			"title": "District ",
+			"constraints": {
+				"required": false,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "Date",
+			"title": "Date",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "HEALTH FACILITY TYPE",
+			"title": "HEALTH FACILITY TYPE",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "HEALTH FACILITY OWNERSHIP",
+			"title": "HEALTH FACILITY OWNERSHIP",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "HEALTH FACILITY NAME ",
+			"title": "HEALTH FACILITY NAME ",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#string"
+			}
+		},
+		{
+			"name": "STAR RATING",
+			"title": "STAR RATING",
+			"constraints": {
+				"required": true,
+				"type": "http://www.w3.org/2001/XMLSchema#int"
+			}
+		}
+	]
+}
