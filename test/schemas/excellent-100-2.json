@@ -1,16 +1,16 @@
 {
 	"fields": [
 		{
-			"name": "Region ",
-			"title": "Region ",
+			"name": "Region",
+			"title": "Region",
 			"constraints": {
 				"required": true,
 				"type": "http://www.w3.org/2001/XMLSchema#string"
 			}
 		},
 		{
-			"name": "District ",
-			"title": "District ",
+			"name": "District",
+			"title": "District",
 			"constraints": {
 				"required": false,
 				"type": "http://www.w3.org/2001/XMLSchema#string"

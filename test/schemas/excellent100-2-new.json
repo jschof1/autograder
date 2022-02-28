@@ -1,0 +1,127 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "http://example.com/example.json",
+  "type": "array",
+  "title": "The root schema",
+  "default": [],
+  "examples": [
+    [
+      {
+        "Region": "Mara",
+        "District": "Tarime",
+        "Date": "05-Mar-15",
+        "HEALTH FACILITY TYPE": "Health Centre",
+        "HEALTH FACILITY OWNERSHIP": "Private",
+        "HEALTH FACILITY NAME": "TGF",
+        "STAR RATING": 3
+      },
+      {
+        "Region": "Mara",
+        "District": "Musoma Municipal ",
+        "Date": "05-Mar-15",
+        "HEALTH FACILITY TYPE": "Health Centre",
+        "HEALTH FACILITY OWNERSHIP": "Public",
+        "HEALTH FACILITY NAME": "BWERI H/CENTRE",
+        "STAR RATING": 3
+      }
+    ]
+  ],
+  "additionalItems": true,
+  "items": {
+    "$id": "#/items",
+    "anyOf": [
+      {
+        "$id": "#/items/anyOf/0",
+        "type": "object",
+        "title": "The first anyOf schema",
+        "default": {},
+        "examples": [
+          {
+            "Region": "Mara",
+            "District": "Tarime",
+            "Date": "05-Mar-15",
+            "HEALTH FACILITY TYPE": "Health Centre",
+            "HEALTH FACILITY OWNERSHIP": "Private",
+            "HEALTH FACILITY NAME": "TGF",
+            "STAR RATING": 3
+          }
+        ],
+        "required": [
+          "Region",
+          "District",
+          "Date",
+          "HEALTH FACILITY TYPE",
+          "HEALTH FACILITY OWNERSHIP",
+          "HEALTH FACILITY NAME",
+          "STAR RATING"
+        ],
+        "properties": {
+          "Region": {
+            "$id": "#/items/anyOf/0/properties/Region",
+            "type": "string",
+            "title": "The Region schema",
+            "default": "",
+            "examples": [
+              "Mara"
+            ]
+          },
+          "District": {
+            "$id": "#/items/anyOf/0/properties/District",
+            "type": "string",
+            "title": "The District schema",
+            "default": "",
+            "examples": [
+              "Tarime"
+            ]
+          },
+          "Date": {
+            "$id": "#/items/anyOf/0/properties/Date",
+            "type": "string",
+            "title": "The Date schema",
+            "default": "",
+            "examples": [
+              "05-Mar-15"
+            ]
+          },
+          "HEALTH FACILITY TYPE": {
+            "$id": "#/items/anyOf/0/properties/HEALTH%20FACILITY%20TYPE",
+            "type": "string",
+            "title": "The HEALTH FACILITY TYPE schema",
+            "default": "",
+            "examples": [
+              "Health Centre"
+            ]
+          },
+          "HEALTH FACILITY OWNERSHIP": {
+            "$id": "#/items/anyOf/0/properties/HEALTH%20FACILITY%20OWNERSHIP",
+            "type": "string",
+            "title": "The HEALTH FACILITY OWNERSHIP schema",
+            "default": "",
+            "examples": [
+              "Private"
+            ]
+          },
+          "HEALTH FACILITY NAME": {
+            "$id": "#/items/anyOf/0/properties/HEALTH%20FACILITY%20NAME",
+            "type": "string",
+            "title": "The HEALTH FACILITY NAME schema",
+            "default": "",
+            "examples": [
+              "TGF"
+            ]
+          },
+          "STAR RATING": {
+            "$id": "#/items/anyOf/0/properties/STAR%20RATING",
+            "type": "integer",
+            "title": "The STAR RATING schema",
+            "default": 0,
+            "examples": [
+              3
+            ]
+          }
+        },
+        "additionalProperties": true
+      }
+    ]
+  }
+}
