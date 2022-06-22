@@ -1,6 +1,10 @@
-import "./styles.css";
+// import "./styles.css";
+
+const Ajv = require("ajv");
+const ajv = new Ajv();
 
 
+//FIRST TRY
 // const Ajv = require("ajv")
 // const addFormats = require("ajv-formats")
 
@@ -86,10 +90,34 @@ let objTester = {
     HealthFacilityName: "HealthFacilityName",
     StarRating: "StarRating",
 }
-const test = ajv.compile(schema);
-const isValid = test (objTester);
-console.log(isValid ? obj : {obj, error: test.errors });
+// const test = ajv.compile(schema);
+// const isValid = test (objTester);
+// console.log(isValid ? obj : {obj, error: test.errors });
 
-document.getElementById("app").innerHTML = `
-<h1>AUTO-GRADER</h1>
-`;
+
+// ATTEMPT 2.0
+// import excellentSchema from '../test/schemas/excellent-100-2.json';
+
+
+// export default class SchemaValidator {
+
+  // constructor() {
+  //   const ajv = new Ajv({ format: 'full', unknownFormats: 'ignore', verbose: true, logger: false });
+  //   ajv.addSchema(actionSchema, 'action.json');
+
+//     this.jsonValidator = ajv.compile(excellentSchema);
+//   }
+
+//   validate(json) {
+//     const valid = this.jsonValidator(json);
+
+//     return {
+//       valid,
+//       errors: valid ? this.jsonValidator.errors : undefined,
+//     };
+//   }
+// }
+
+// document.getElementById("app").innerHTML = `
+// <h1>AUTO-GRADER</h1>
+// `;
